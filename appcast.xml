@@ -5,6 +5,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Sat, 25 Jan 2025 18:41:32 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8849088" type="application/octet-stream" sparkle:edSignature="iOygFCV2UxEr1IRR+u0vDIuO9GFTpohLYlcWDgdtuFLDvniteyjr7hH0vISlV7vyXmbWhPMb3p6qFM6zPFb9Aw=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Sat, 25 Jan 2025 13:41:06 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
