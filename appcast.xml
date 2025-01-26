@@ -5,6 +5,26 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Sun, 26 Jan 2025 18:22:51 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description>
+              <![CDATA[
+                <h2>What's New</h2>
+                <h4>Features:</h4>
+                <ul>
+                  <li>Download artifacts for simulator and device</li>
+                  <li>Improve artifact options for device and simulator</li>
+                  <li>Clean option for artifact plateform</li>
+                  <li>Add artifact device install feedback</li>
+                </ul>
+              ]]>
+            </description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8865314" type="application/octet-stream" sparkle:edSignature="SuNYs3QbK0X3YEOUgzJOC/CMDeRXzKY3g1bbkpoNftaB/aYjqOZFShTTYQ0UFEJe0Y4CABT0CEMyyYTIHGrWCA=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sat, 25 Jan 2025 18:41:32 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
