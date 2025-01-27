@@ -5,13 +5,33 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Mon, 27 Jan 2025 10:45:27 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Features:</h4>
+                <ul>
+                  <li>Add Request Feature menu entry</li>
+                  <li>About tab in Settings with Feature Request button</li>
+                  <li>Update menu bar icon</li>
+                </ul>
+                <h4>Bug fix:</h4>
+                <ul>
+                  <li>Wrong application display name</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8900739" type="application/octet-stream" sparkle:edSignature="uQd/P0scclFcXHHfSn0mIyZQ6nBKPGZCQbJ7OCKbKe3x7LE0MG0vkVClJdfwVl3YjcTLLuSlld05zA/S6tG8BA=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Sun, 26 Jan 2025 18:22:51 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description>
-              <![CDATA[
+            <description><![CDATA[
                 <h2>What's New</h2>
                 <h4>Features:</h4>
                 <ul>
@@ -20,8 +40,7 @@
                   <li>Clean option for artifact plateform</li>
                   <li>Add artifact device install feedback</li>
                 </ul>
-              ]]>
-            </description>
+              ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8865314" type="application/octet-stream" sparkle:edSignature="SuNYs3QbK0X3YEOUgzJOC/CMDeRXzKY3g1bbkpoNftaB/aYjqOZFShTTYQ0UFEJe0Y4CABT0CEMyyYTIHGrWCA=="/>
         </item>
         <item>
@@ -31,14 +50,6 @@
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8849088" type="application/octet-stream" sparkle:edSignature="iOygFCV2UxEr1IRR+u0vDIuO9GFTpohLYlcWDgdtuFLDvniteyjr7hH0vISlV7vyXmbWhPMb3p6qFM6zPFb9Aw=="/>
-        </item>
-        <item>
-            <title>0.3.0</title>
-            <pubDate>Sat, 25 Jan 2025 13:41:06 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="8768057" type="application/octet-stream" sparkle:edSignature="VB4Bz/8NU9sBdwLTCU2zzh/D3qXP/xBW6FIvTSAUU+VhhT9isVeoN5KSPjQT9zMGOVWSg5CoBCODavlAIBZjAw=="/>
         </item>
     </channel>
 </rss>
