@@ -5,6 +5,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.10.2</title>
+            <pubDate>Fri, 31 Jan 2025 15:32:23 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Features:</h4>
+                <ul>
+                  <li>Show application Removed From AppStore status</li>
+                  <li>Filter application with/without Removed From AppStore in Apps setings tab</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10061325" type="application/octet-stream" sparkle:edSignature="195m+Qo5RibIUZ8N2P3GOQQCgdm+XMQmU5HH1fmFGgGJC29OmBlwvg4QhuVBSRigeRcukROVek43X75sMntHBg=="/>
+        </item>
+        <item>
             <title>0.10.1</title>
             <pubDate>Fri, 31 Jan 2025 10:47:15 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -34,21 +50,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10051749" type="application/octet-stream" sparkle:edSignature="9aEvmIXU9YFutONVsXkClgIQJuzrJ/mMqcQ/WUkUAV3eL1isMX3QJ2Q/c73mQsdoFOykH8X54yZR69ROplaeCw=="/>
-        </item>
-        <item>
-            <title>0.9.1</title>
-            <pubDate>Thu, 30 Jan 2025 20:30:54 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Bug Fixes:</h4>
-                <ul>
-                  <li>Start only selected simulators from menu (@LoopingStudio)</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10019987" type="application/octet-stream" sparkle:edSignature="LG6CSdK1rGKFtu/Dw6WfvqTfdsyn+0M+lG4kZfIjtfA+PcjCfhR0FAVbqVTzpvKqhBs6Ud4KstKrc1/MZLkmAQ=="/>
         </item>
     </channel>
 </rss>
