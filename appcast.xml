@@ -5,6 +5,34 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.13.0</title>
+            <pubDate>Wed, 05 Feb 2025 18:46:57 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Features:</h4>
+                <ul>
+                  <li>Load build run for none pull request</li>
+                </ul>
+                <h4>Enhancements:</h4>
+                <ul>
+                  <li>Improve window management</li>
+                  <li>App activation accessory <> inactive</li>
+                  <li>Provider loading enhancements</li>
+                </ul>
+                <h4>Bug Fixes:</h4>
+                <ul>
+                  <li>Menu bar icon light theme</li>
+                  <li>Unfavorite application can be selected</li>
+                  <li>Artifact progress view frame</li>
+                  <li>Pull request window lifetime</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10040495" type="application/octet-stream" sparkle:edSignature="hDwHSZImHYBB/cFzXm7NvN6aQ1GVoRD4G7+M5D7ig49YBn4aDKa1Ry28dyk1pzw1mV6hMmtH70MO3eyPIntrCQ=="/>
+        </item>
+        <item>
             <title>0.12.0</title>
             <pubDate>Tue, 04 Feb 2025 12:38:41 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -35,22 +63,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="9903653" type="application/octet-stream" sparkle:edSignature="mCHthN/TNYxxZ51wWr9VgzPeFU+Nx3axkgyJrmWdIpNeoPG17XerukTRcGoWi1GTpZnd98+uYaEZ1DHvwvL4Cw=="/>
-        </item>
-        <item>
-            <title>0.10.2</title>
-            <pubDate>Fri, 31 Jan 2025 15:32:23 +0100</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Features:</h4>
-                <ul>
-                  <li>Show application Removed From AppStore status</li>
-                  <li>Filter application with/without Removed From AppStore in Apps setings tab</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10061325" type="application/octet-stream" sparkle:edSignature="195m+Qo5RibIUZ8N2P3GOQQCgdm+XMQmU5HH1fmFGgGJC29OmBlwvg4QhuVBSRigeRcukROVek43X75sMntHBg=="/>
         </item>
     </channel>
 </rss>
