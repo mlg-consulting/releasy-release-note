@@ -5,6 +5,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.13.2</title>
+            <pubDate>Fri, 07 Feb 2025 17:45:26 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Bug Fixes:</h4>
+                <ul>
+                  <li>Create release button logic</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="17728622" type="application/octet-stream" sparkle:edSignature="jiSjdxCHtvp1TdC3H+bMyaQ77L8fsuLsCjDwiEQWEdsKv7pGA1nFxTum2r9oMWAHsjbbMwH3a/UTQA2jzaZ5Cw=="/>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Fri, 07 Feb 2025 16:38:49 +0100</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -46,19 +61,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10040495" type="application/octet-stream" sparkle:edSignature="hDwHSZImHYBB/cFzXm7NvN6aQ1GVoRD4G7+M5D7ig49YBn4aDKa1Ry28dyk1pzw1mV6hMmtH70MO3eyPIntrCQ=="/>
-        </item>
-        <item>
-            <title>0.12.0</title>
-            <pubDate>Tue, 04 Feb 2025 12:38:41 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Features:</h4>
-                <p>General application stability enhancements.</p>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="9992110" type="application/octet-stream" sparkle:edSignature="7UIJ7Llm4OMkFXb1BUbAv0FwkH+NscEzQjAGeBexrDMXqY2W+oT9LP+b15YGU+ynxsvHK5TKPGcSa5SBoZ1hCA=="/>
         </item>
     </channel>
 </rss>
