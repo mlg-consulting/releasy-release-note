@@ -5,6 +5,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Fri, 07 Feb 2025 16:38:49 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Bug Fixes:</h4>
+                <ul>
+                  <li>Duplicated build run when not associated with a Pull Request</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="17728650" type="application/octet-stream" sparkle:edSignature="AS8+BZw4Kcdd5iItM28pK0fr/2TwT9zhmwXOwCm3WrKRCg9unLeLGZjHi95ZaUY/+3uWh1CjWyj48UTcTGwxCg=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Wed, 05 Feb 2025 18:46:57 +0100</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -44,25 +59,6 @@
                 <p>General application stability enhancements.</p>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="9992110" type="application/octet-stream" sparkle:edSignature="7UIJ7Llm4OMkFXb1BUbAv0FwkH+NscEzQjAGeBexrDMXqY2W+oT9LP+b15YGU+ynxsvHK5TKPGcSa5SBoZ1hCA=="/>
-        </item>
-        <item>
-            <title>0.11.0</title>
-            <pubDate>Mon, 03 Feb 2025 17:09:34 +0100</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Features:</h4>
-                <ul>
-                  <li>
-                    <b>Add notification when download artifact is ready:</b> While downloading artifacts in background. A notification is send with an action button <b>View</b> to quickly open the Pull Request view.</li>
-                  <li>
-                    <b>Releasy CLI:</b> A Command Line Interface will soon be available to create release on App Store Connect directly from CI/CD. The first command available will allow new App Store Version creation.
-                  </li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="9903653" type="application/octet-stream" sparkle:edSignature="mCHthN/TNYxxZ51wWr9VgzPeFU+Nx3axkgyJrmWdIpNeoPG17XerukTRcGoWi1GTpZnd98+uYaEZ1DHvwvL4Cw=="/>
         </item>
     </channel>
 </rss>
