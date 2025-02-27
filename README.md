@@ -20,3 +20,7 @@ Releasy is the ultimate companion for small teams and indie developers creating 
 Take the hassle out of testing and releasing apps. With Releasy, you can bring your ideas to life faster, smoother, and with total confidence.
 
 **Start using Releasy today and focus on building apps—not managing workflows.**
+
+### How it looks like?
+
+![Releasy](Releasy.png)
