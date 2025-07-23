@@ -5,12 +5,29 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.18.0</title>
+            <pubDate>Wed, 23 Jul 2025 12:17:10 +0200</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Enhancements:</h4>
+                <ul>
+                  <li>Generate build artifact from Branches/Tags</li>
+                  <li>Generate build artifact deeplink</li>
+                  <li>Install build artifact on simulator from URL</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23088149" type="application/octet-stream" sparkle:edSignature="M9ivFo0QQIPK8M1KSJZYqs4UXFAdaN9uASvdYhAPjQafTWd+84yX7utatF1h06NmOxmUyzWyhCEyXdqRLTZsBw=="/>
+        </item>
+        <item>
             <title>0.16.1</title>
             <pubDate>Fri, 28 Feb 2025 15:09:12 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-             <description><![CDATA[
+            <description><![CDATA[
                 <h2>What's New</h2>
                 <h4>Enhancements:</h4>
                 <ul>
@@ -33,21 +50,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10306442" type="application/octet-stream" sparkle:edSignature="dCHxl5iNcwWFcLIT5yi0+uunF1UXOQNA0uBV+v0vlPrnN2TptbdspoMPcURRhtRZFO6+uJ7X96OWkl5qnTF/Ag=="/>
-        </item>
-        <item>
-            <title>0.15.2</title>
-            <pubDate>Mon, 24 Feb 2025 15:52:37 +0100</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Features:</h4>
-                <ul>
-                  <li>Multi App Store Connect account</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="10265394" type="application/octet-stream" sparkle:edSignature="yK1+iPK5y8FcVzY+vEcHs4WKbN75kXUTPwbC8oLWilK8lFUsomKSRl2GMOKTavGPm9H1WElI/pCR0229zwHbCA=="/>
         </item>
     </channel>
 </rss>
