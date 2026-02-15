@@ -5,6 +5,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.22.1</title>
+            <pubDate>Sun, 15 Feb 2026 12:27:04 +0100</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>Fixes:</h4>
+                <ul>
+                  <li>Outgoing network request not being allowed</li>
+                  <li>Read/Write user selected files not authorized</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23523101" type="application/octet-stream" sparkle:edSignature="JXN+pr/g2v4AGWTQiyLCYkUT/9g5TOD9sKmotzmql54iF80t7AcmSi8NcEFt4TSMUMCMnwp/frkoaFLT3WwwBg=="/>
+        </item>
+        <item>
             <title>0.22.0</title>
             <pubDate>Fri, 13 Feb 2026 09:37:51 +0100</pubDate>
             <sparkle:version>43</sparkle:version>
@@ -35,22 +51,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23358823" type="application/octet-stream" sparkle:edSignature="O1ouAH3QmA7V4nMGRmT7iAKJQaOxYpC4ccB7b6wUSip0a1v/1JcKfq7BuNCGoeIHP/0bXJgGLxoCOJH63iayCg=="/>
-        </item>
-        <item>
-            <title>0.21.1</title>
-            <pubDate>Mon, 08 Dec 2025 10:47:20 +0100</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Enhancements:</h4>
-                <ul>
-                  <li>Recent build sort descending (@damien-nd)</li>
-                  <li>Load recent build to avoid duplicates (@damien-nd)</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="22605330" type="application/octet-stream" sparkle:edSignature="XbDMed+2K87GjBKBuzxuFmZT45A/9Jx7WGax8o1y3pJty/uKw8EbU3J1qa38OzhBukQQ/bXmuvRKtn5NMYiYDA=="/>
         </item>
     </channel>
 </rss>
