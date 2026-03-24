@@ -5,6 +5,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.23.0</title>
+            <pubDate>Tue, 24 Mar 2026 21:42:48 +0100</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <h4>New feature:</h4>
+                <ul>
+                  <li>Install artifact to simulator with one-click using deeplink from Github Pull Request comment (@AurelTyson).</li>
+                </ul>
+              ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="28736488" type="application/octet-stream" sparkle:edSignature="g7P6BYLgDPGIvElAyyXcdpoWkwglFmTpb/t5v6nEGgHJvrpyChZL+njgRpwyzRYWED8VxLAs9YsS+0o4EeaoBQ=="/>
+        </item>
+        <item>
             <title>0.22.2</title>
             <pubDate>Sat, 21 Feb 2026 15:31:13 +0100</pubDate>
             <sparkle:version>45</sparkle:version>
@@ -34,22 +49,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23523101" type="application/octet-stream" sparkle:edSignature="JXN+pr/g2v4AGWTQiyLCYkUT/9g5TOD9sKmotzmql54iF80t7AcmSi8NcEFt4TSMUMCMnwp/frkoaFLT3WwwBg=="/>
-        </item>
-        <item>
-            <title>0.22.0</title>
-            <pubDate>Fri, 13 Feb 2026 09:37:51 +0100</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Enhancements:</h4>
-                <ul>
-                  <li>Filter network devices (@LoopingStudio)</li>
-                  <li>Create multiple Build release at once (@LoopingStudio)</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23523026" type="application/octet-stream" sparkle:edSignature="HNMun8fklX4dXaM5Sx56hk+2E50u533OcEX/J3+CUIkRg28+sAWzlZmCNCnLM0fTmr1cN0E1qT+ySYqN0PItDw=="/>
         </item>
     </channel>
 </rss>
