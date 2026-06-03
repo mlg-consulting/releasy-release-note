@@ -5,6 +5,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.23.1</title>
+            <pubDate>Wed, 03 Jun 2026 20:11:22 +0200</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.23.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+              <h2>What's New</h2>
+              <h4>New feature:</h4>
+              <ul>
+              <li>Handle Picta application analytics in Console view.</li>
+              </ul>
+            ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="31132358" type="application/octet-stream" sparkle:edSignature="9ui+IM9tKSCmolOAC22mmd0RgnKNny8/qry1OjzLlkXrx+DzN4wNMNhFQ299rAhyBe+sQlsDdxyYqyG4/cokAQ=="/>
+        </item>
+        <item>
             <title>0.23.0</title>
             <pubDate>Tue, 24 Mar 2026 21:42:48 +0100</pubDate>
             <sparkle:version>50</sparkle:version>
@@ -33,22 +48,6 @@
                 </ul>
               ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23522979" type="application/octet-stream" sparkle:edSignature="92gizFZoyWtGqDFVAukPv49rJth++0N6nq6IXX2CClyQL1AdN8pIDSkQ9Cop593a2QdCPIdFkGFhhCYdnI8wDg=="/>
-        </item>
-        <item>
-            <title>0.22.1</title>
-            <pubDate>Sun, 15 Feb 2026 12:27:04 +0100</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <h4>Fixes:</h4>
-                <ul>
-                  <li>Outgoing network request not being allowed</li>
-                  <li>Read/Write user selected files not authorized</li>
-                </ul>
-              ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/mlg-consulting/releasy-release-note/refs/heads/main/Releasy.zip" length="23523101" type="application/octet-stream" sparkle:edSignature="JXN+pr/g2v4AGWTQiyLCYkUT/9g5TOD9sKmotzmql54iF80t7AcmSi8NcEFt4TSMUMCMnwp/frkoaFLT3WwwBg=="/>
         </item>
     </channel>
 </rss>
